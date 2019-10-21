@@ -1,0 +1,24 @@
+[23-Sep-2018 20:05:55 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/edintour/public_html/touredimburgo.com/wp-content/themes/bootstraptowp1-master/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edintour/public_html/touredimburgo.com/wp-content/themes/bootstraptowp1-master/index.php on line 2
+[24-Oct-2018 19:40:21 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/edintour/public_html/touredimburgo.com/wp-content/themes/bootstraptowp1-master/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edintour/public_html/touredimburgo.com/wp-content/themes/bootstraptowp1-master/index.php on line 2
+[26-Nov-2018 00:30:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/edintour/public_html/touredimburgo.com/wp-content/themes/bootstraptowp1-master/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edintour/public_html/touredimburgo.com/wp-content/themes/bootstraptowp1-master/index.php on line 2
+[26-Dec-2018 22:48:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/edintour/public_html/touredimburgo.com/wp-content/themes/bootstraptowp1-master/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edintour/public_html/touredimburgo.com/wp-content/themes/bootstraptowp1-master/index.php on line 2
+[30-Jan-2019 14:32:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/edintour/public_html/touredimburgo.com/wp-content/themes/bootstraptowp1-master/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edintour/public_html/touredimburgo.com/wp-content/themes/bootstraptowp1-master/index.php on line 2
+[22-Apr-2019 12:10:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/edintour/public_html/touredimburgo.com/wp-content/themes/bootstraptowp1-master/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edintour/public_html/touredimburgo.com/wp-content/themes/bootstraptowp1-master/index.php on line 2
